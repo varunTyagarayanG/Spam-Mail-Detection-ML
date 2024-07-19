@@ -1,4 +1,4 @@
-# Machine Learning Code Execution Guide
+# Model Execution Guide
 
 ## Installations
 
